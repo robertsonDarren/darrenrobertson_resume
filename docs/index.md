@@ -31,7 +31,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __CalAmp__, Irvine, CA
 
 - Performed numerous Ad Hoc analyses on cost reduction and price validation.
-    - Found customers that were receiving up to a 20% additional discount
+    - Found customers that were receiving up to a 20% additional discount.
 - Tasked with updating the Prepaid Schedule monthly and setting up the quarterly Cut-off and Price Testing.
 
 ### Data Science Lead
