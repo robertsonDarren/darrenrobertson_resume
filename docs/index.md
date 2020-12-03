@@ -22,22 +22,17 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Business Analytics Major, 3.516 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`July 2020 - January 2021`
+__CalAmp__, Irvine, CA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Performed numerous Ad Hoc analyses on cost reduction and price validation.
+    - Found 
+- Tasked with updating the Prepaid Schedule monthly and setting up the quarterly Cut-off and Price Testing.
 
 ### Data Science Lead
 
