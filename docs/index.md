@@ -8,7 +8,7 @@ CalAmp Finance and Accounting Intern
 
 <div id="webaddress">
 <a href="darrenrobertson020@gmail.com">darrenrobertson020@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program (Must Change)</a>
+<!-- | <a href="https://byuidatascience.github.io/development.html">Data Science Program (Must Change)</a> -->
 | <a href="https://www.linkedin.com/in/darren-robertson020/">LinkedIn</a>
 | <a href="https://github.com/robertsonDarren">GitHub</a>
 </div>
