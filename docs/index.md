@@ -54,7 +54,7 @@ __Team Member__, Chick-Fil-A
 
 
 `2023-2025`
-__Service Missionary__, South Africa
+__Eagle Scout__, Boy Scouts of America
 
 
 
