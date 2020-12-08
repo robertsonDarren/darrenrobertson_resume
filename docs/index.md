@@ -25,52 +25,32 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
-
 `July 2020 - January 2021`
-__CalAmp__, Irvine, CA
+__CalAmp__, Finance and Accounting Intern
 
 - Performed numerous Ad Hoc analyses on cost reduction and price validation.
     - Found customers that were receiving up to a 20% additional discount.
 - Tasked with updating the Prepaid Schedule monthly and setting up the quarterly Cut-off and Price Testing.
 
-### Data Science Lead
+`January 2020`
+__The Flying Locksmiths - Orange County__, Consultant
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Built programs in R, Python, and VBA to reconcile the differences between the QuickBooks invoices and their proprietary invoice system
+- Saved three hours of work each month reconciling the invoices by hand
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`January 2020 - April 2020`
+__Brigham Young University - Pathway Worldwide__, Consultant
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Worked through the BYU-Idaho Data Science Society
+- Tasked to use statistical analysis on whether the new Orientation Checklist they created increased student retention and/or increased student grades 
+- Pathway Worldwide is using the information to justify the cost of creating the checklist in the future
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2016-2019`
+__Team Member__, Chick-Fil-A
 
 
 `2023-2025`
