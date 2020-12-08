@@ -10,7 +10,7 @@ CalAmp Finance and Accounting Intern
 <a href="darrenrobertson020@gmail.com">darrenrobertson020@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program (Must Change)</a>
 | <a href="https://www.linkedin.com/in/darren-robertson020/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub (Must Change)</a>
+| <a href="https://github.com/robertsonDarren">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
