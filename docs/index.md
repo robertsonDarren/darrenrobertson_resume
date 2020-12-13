@@ -20,7 +20,7 @@ CalAmp Finance and Accounting Intern
 `2017-2020`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Business Analytics Major, 3.516 GPA
+- Business Analytics Major, 3.642 Major GPA
 
 
 ## Related Experience
@@ -28,6 +28,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `July 2020 - January 2021`
 __CalAmp__, Finance and Accounting Intern
 
+- Used Python, PowerBI, and Excel
 - Performed numerous Ad Hoc analyses on cost reduction and price validation.
     - Found customers that were receiving up to a 20% additional discount.
 - Tasked with updating the Prepaid Schedule monthly and setting up the quarterly Cut-off and Price Testing.
@@ -45,6 +46,14 @@ __Brigham Young University - Pathway Worldwide__, Consultant
 - Tasked to use statistical analysis on whether the new Orientation Checklist they created increased student retention and/or increased student grades 
 - Pathway Worldwide is using the information to justify the cost of creating the checklist in the future
 
+`November 2018 - December 2018`
+__Brigham Young University - Pathway Worldwide__, Consultant
+
+- Billed dozens of customer invoices daily sent from the Phone Salesmen and from walk-in merchandise sales
+- Reconciled invoices daily from the paper invoices, ADP information, and bank information. Created an excel sheet to show which invoice was likely to be incorrect.
+- Greeted visitors and determined to whom and when they could speak with specific individuals
+- Delivered mail to the other employees
+- Wiped down and cleaned the classic cars in the showroom
 
 
 ## Service and Work History
@@ -53,13 +62,13 @@ __Brigham Young University - Pathway Worldwide__, Consultant
 __Team Member__, Chick-Fil-A
 
 
-`2023-2025`
+`2016`
 __Eagle Scout__, Boy Scouts of America
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2020 -->
 
 
